@@ -1,0 +1,84 @@
+body, html {
+  height: 100%;
+	color: white;
+  font-size: 20px;
+  background-color: #000;
+}
+
+h1{
+	font-weight: bolder;
+}
+
+#title {
+  font-size: 10vmin;
+}
+
+.bg { 
+  /* The image used */
+  background-image: url("../images/background.jpg");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+a:visited, a {
+  color: hsla(0,0%,100%,.9);
+}
+
+
+.navbar-dark .navbar-nav .nav-link, a {
+  color: hsla(0,0%,100%,.9);
+}
+.navbar-dark .navbar-nav .nav-link:hover, a:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+  color: hsla(0,0%,100%,.9);
+}
+
+.post-content,.main-text {
+padding:1em;
+max-width:80vw;
+background-color: rgba(0, 0, 0, 0.5);
+}
+
+
+
+.footer-col-wrapper {
+  font-size: 18px;
+  color: #fff;
+}
+
+.footer-col-1 {
+  width: -webkit-calc(33% - (30px / 2));
+  width: calc(33% - (30px / 2));
+}
+
+.footer-col-2 {
+  width: -webkit-calc(25% - (30px / 2));
+  width: calc(25% - (30px / 2));
+}
+
+.footer-heading {
+color: white;
+}
+
+.funded {
+  margin-top: 2em;
+}
+
+.fa-3x {
+  font-size: 2em;
+  padding-right: 15px;
+}
+ 
+.svg-icon {
+  width: 23px;
+  height: 23px;
+}

@@ -1,0 +1,43 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <ul class="contact-list">
+            <li class="p-name">
+              {%- if site.address -%}
+                {{ site.address | escape }}
+              {%- else -%}
+                {{ site.title | escape }}
+              {%- endif -%}
+              </li>
+              {%- if site.email -%}
+              <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+              {%- endif -%}
+              {%- if site.company_no -%}
+              <li>Company No: {{ site.company_no | escape }}</li>
+              {%- endif -%}
+          </ul>
+          {%- include social-media.html -%}
+      </div>
+      <div class="col-md-6">
+          <p>{{- site.description | escape -}}</p>
+      </div>
+    </div>
+    <div class="funded">
+        <p>Funded by</p>
+        <div class="row">
+          <div class="col-md-3">
+              <a href="https://bdproducinghub.co.uk/"><img style="max-width:200px" src="{{ '/assets/images/bph.png' | relative_url }}" alt="Bradford Producing Hub Logo" class="img-responsive"></a>
+          </div>
+          <div class="col-md-4 offset-md-1">
+              <a href="https://www.artscouncil.org.uk"><img style="max-width:270px" src="{{ '/assets/images/lottery_Logo_White RGB.png' | relative_url }}" alt="Arts Council Logo" class="img-responsive"></a>
+            </div>
+        </div>
+      </div>
+  </div>
+
+  
+
+</footer>
