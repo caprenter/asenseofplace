@@ -1,0 +1,28 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark text-white">
+  <div class="container">
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-mdb-toggle="collapse"
+      data-mdb-target="#navbarTogglerDemo01"
+      aria-controls="navbarTogglerDemo01"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <i class="fas fa-bars"></i>
+    </button>
+    <div class="title">
+      <a href="/" class="navbar-brand link-light">{{ site.title }}</a> 
+    </div>
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+      <div class="navbar-nav ms-auto">
+        {% for item in site.data.navbar %}
+        <a class="nav-item nav-link" href="{{item.link}}">{{ item.name }}</a>
+        {% endfor %}  
+      </div>
+    </div>
+  </div>
+</nav>
+

@@ -1,0 +1,33 @@
+#email:
+#  id: 'info@asenseofplace.org.uk'
+#  text: ''
+#  href: 'mailto:'
+#  title: 'Email'
+#  fa-icon: 'far fa-envelope'
+
+twitter:
+  id: 'asenseofplace'
+  text: '#asenseofplace'
+  href: 'https://www.twitter.com/hashtag/'
+  title: 'Twitter'
+  fa-icon: 'fab fa-twitter'
+
+instagram:
+  id: 'asenseofplace'
+  text: '#asenseofplace'
+  href: 'https://instagram.com/explore/tags/'
+  title: 'Instagram'
+  fa-icon: 'fab fa-instagram'
+
+facebbok:
+  id: ''
+  text: 'A Sense Of Place'
+  href: 'https://www.facebook.com/A-Sense-Of-Place-101520695953205'
+  title: 'Facebook'
+  fa-icon: 'fab fa-facebook-square'
+  
+#youtube:
+#  id: ''
+#  href: 'https://www.youtube.com/channel/UC_KYG1wxZ2irS15s2wdT5kA'
+#  title: 'YouTube'
+#  fa-icon: 'fab fa-youtube'
