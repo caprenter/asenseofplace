@@ -33,19 +33,14 @@
   <body>
     <div class="bg">
       {% include navbar.html %}
-      
-      <div class="h-100 d-flex flex-column justify-content-center align-items-center">
-        <section>
-          {{ content }}
-        </section>
-        
-      </div>
-          <footer>
-            {% include footer.html %}
-    </footer>
-    </div>
     
+      {{ content }}
 
-    
+      {% include events.html %}
+
+      <footer>
+              {% include footer.html %}
+      </footer>
+    </div>
   </body>
 </html>

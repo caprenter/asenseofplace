@@ -2,7 +2,7 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
   
   <div class="container">
-    <div class="row">
+    <div class="row footer-top">
       <div class="col-md-6">
         <ul class="contact-list">
             <li class="p-name">
@@ -23,6 +23,8 @@
       </div>
       <div class="col-md-6">
           <p>{{- site.description | escape -}}</p>
+          <h4>Sign up for updates</h4>
+          <p>Email us at <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a> to be added to our mailing list.</a></p>
       </div>
     </div>
     <div class="funded">
@@ -36,8 +38,8 @@
             </div>
         </div>
       </div>
-  </div>
-
   
+    <div class="funded terms">Most content is provided by A Sense of Place.See <a href="{{ '/terms' | relative_url }}">Terms</a> for full details.</div>
+  </div>
 
 </footer>
