@@ -6,7 +6,7 @@ permalink: /about/
 
 A Sense Of Place is a series of events, with a minimal carbon footprint, based in the Bradford district that will bring people, artists, and our local environment together for an experience that will stay long in the mind.
 
-We are planning 3 events over the next 12 months. Check back for details.
+We are planning 3 events over the next 12 months. See below for details.
 
 The project is being taken forward by 5 Bingley based artists: 
 
