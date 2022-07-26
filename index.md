@@ -2,6 +2,7 @@
 title: A Sense Of Place
 layout: page
 id: index
+image: /assets/images/background.jpg
 ---
 Gather at dawn for an immersive, live, outdoor, experience that connects people to each other, nature, the built environment, their own creativity, and with a global audience, at specific times and places in our city.
 

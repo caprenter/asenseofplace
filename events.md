@@ -2,6 +2,7 @@
 layout: page
 title: Events
 permalink: /events/
+image: /assets/images/background.jpg
 ---
 
 All events allow a small, intimate, local, group of people to experience the Dawn Chorus together, as a starting point to explore your own creativity.
