@@ -24,7 +24,7 @@ email: info@asenseofplace.org.uk
 description: >- # this means to ignore newlines until "baseurl:"
   We are surrounded by incredible, remarkable sights and sounds in our own backyard that we often take for granted, or ignore completely. We forget that the whole world is a stage.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://asenseofplace.org.uk/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://asenseofplace.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "#asenseofplace"
 facebook_username:  A Sense Of Place
 instagram_username: "#asenseofplace"
