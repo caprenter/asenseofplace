@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+image: /assets/images/background.jpg
 ---
 
 A Sense Of Place is a series of events, with a minimal carbon footprint, based in the Bradford district that will bring people, artists, and our local environment together for an experience that will stay long in the mind.
