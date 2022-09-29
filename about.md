@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: /assets/images/background.jpg
+bgimage: /assets/images/ASOP_AltarRock_Sept2022_14.jpg
 ---
 
 A Sense Of Place is a series of events, with a minimal carbon footprint, based in the Bradford district that will bring people, artists, and our local environment together for an experience that will stay long in the mind.

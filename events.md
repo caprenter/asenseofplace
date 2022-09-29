@@ -2,7 +2,7 @@
 layout: page
 title: Events
 permalink: /events/
-image: /assets/images/background.jpg
+bgimage: /assets/images/ASOP_AltarRock_Sept2022_2.jpg
 ---
 
 All events allow a small, intimate, local, group of people to experience the Dawn Chorus together, as a starting point to explore your own creativity.
