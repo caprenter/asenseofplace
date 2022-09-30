@@ -16,6 +16,7 @@ I try to keep the information up to date and accurate, but you can't always rely
 The logos for Bradford Producing Hub and the Arts Council are not mine, so please don't use them, but you can pretty much do what you like with the rest of it.
 
 ## Cookies
-At the moment there are no cookies in use. Yeay!
+We don't use cookies on this site. Yeay!
+We do collect analytics on page visits using a self-hosted [Matomo](https://matomo.org/) instance.
 
  
