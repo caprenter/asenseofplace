@@ -2,7 +2,7 @@
 title: All Saints Parish Church, Bingley
 layout: page
 id: autumn
-bgimage: /assets/images/ASOP_AltarRock_Sept2022_15.jpg
+bgimage: /assets/images/allsaints/as_banner.jpeg
 image-title: Sunrise over Bingley
 ---
 # All Saints Parish Church, Bingley
@@ -63,7 +63,7 @@ Notes: One marker from near Chorley is not shown. Map is a mixture of postcodes 
 * calming (3)
 * mindful (3)
 
-<img src="{{ site.baseurl}}/assets/images/wordcloud.jpg" alt="WordCloud" />
+<img src="{{ site.baseurl}}/assets/images/allsaints/wordcloud.jpg" alt="WordCloud" />
 
 <!-- Gallery -->
 <!--<div class="row">
@@ -123,8 +123,8 @@ Notes: One marker from near Chorley is not shown. Map is a mixture of postcodes 
     <img
       src="{{ site.baseurl}}/assets/images/ASOP_AltarRock_Sept2022_4.jpg"
       class="w-100 shadow-1-strong rounded mb-4"
-      alt="Yosemite National Park"
+      alt ="Yosemite National Park"
     />
-  </div>
-</div>-->
+  </div> 
+</div>--> 
 <!-- Gallery -->
