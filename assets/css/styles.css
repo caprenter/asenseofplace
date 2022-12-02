@@ -43,9 +43,12 @@ a:visited, a {
 }
 
 .post-content,.main-text {
-padding:1em;
+padding:0;
 max-width:80vw;
 background-color: rgba(0, 0, 0, 0.5);
+}
+.main {
+  padding:0;
 }
 
 .footer-top .col-md-6 {
@@ -99,4 +102,18 @@ h3 {
 }
 .terms {
   font-size: smaller;
+}
+figure {
+  text-align: center;
+  font-size: 2em;
+}
+blockquote {
+  color: #eeeeee;
+  border-left: none;
+  font-size: 1.6em;
+}
+
+figcaption {
+  font-size: 14px;
+  text-align: right;
 }
