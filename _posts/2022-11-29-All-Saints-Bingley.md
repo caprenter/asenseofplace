@@ -8,13 +8,6 @@ image-title: Sunrise over Bingley
 # All Saints Parish Church, Bingley
 29th November 2022
 
-<audio controls>
-    <source src="{{ site.url }}/assets/audio/AllSaints_ASenseOfPlace_2022-11-29_final.ogg" type="audio/ogg">
-    <source src="{{ site.url }}/assets/audio/AllSaints_ASenseOfPlace_2022-11-29_final.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-*Audio: A Sense of Place. Field Recordings.*
-
 This event was limited to 25 places, so with artists and helpers about 30 of us took part in A Sense of Place at [All Saints Parish Church](https://www.allsaintsbingley.org.uk/), where we gathered to listen to sounds designed to anchor people in time and place. 
 
 Listening collectively, the audience was challenged to think about the ways in which we listen in a deeper way.
@@ -53,6 +46,47 @@ Our final Carbon Costs were in the materials we used. This was mitigated by all 
 Notes: One marker from near Chorley is not shown. Map is a mixture of postcodes taken on the day and in pre-registration
 
 <img src="{{ site.baseurl}}/assets/images/map.jpg" alt="map of attendees" />-->
+
+## Sound
+
+<audio controls>
+    <source src="{{ site.url }}/assets/audio/AllSaints_ASenseOfPlace_2022-11-29_final.ogg" type="audio/ogg">
+    <source src="{{ site.url }}/assets/audio/AllSaints_ASenseOfPlace_2022-11-29_final.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+*Audio: A Sense of Place. Field Recordings.*
+
+The audio is 40 minutes of gathered sounds, arranged in sections that last roughly 5 minutes. There is a thirty second gap of silence between sections.
+
+Deep listening prompts based off the work of [Pauline Oliveros]( https://en.wikipedia.org/wiki/Pauline_Oliveros) were displayed during the performance and and listed below.
+
+All the audio was recorded with a smart phone or via the internet.
+
+1) Bingley, 1st of May 2022 5:20am (Dawn Chorus)<br/>
+"Is this sound going in or coming out?"
+
+2) Ardrossan Beach, Scotland, 7th August 2021, 7:30pm<br/>
+"Find someone else in this room and listen with their ears"
+
+3) Bingley, 1st March 2022, 7:50pm<br/>
+"What more could you hear if you had bigger ears?"
+
+4) Chichibu Forest, Japan, 30th April 2021, 4:20am (Recorded via [Locus Sonus](http://locusonus.org/soundmap/051/))<br/>
+"What colour is this sound?"
+
+5) Bingley Railway Station, now (if listening at 7:12pm on 29th Novemebr 2022)<br/>
+"Listen to this sound like it has never been heard before"
+
+6) St. Ives, Bingley, Summer, Winter, Spring, Autumn<br/>
+"What more could you hear if you had smaller ears?"
+
+7) Bingley, 9th November 2022, 12.24pm<br/>
+"What colour is this sound?"
+
+8) Davos, Switzerland, 25th January 2019<br/>
+"Listen. Reward your focus."
+
+9)Bingley, 29th November 2022, 7:30pm 
 
 ## Feedback
 
