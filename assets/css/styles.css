@@ -51,6 +51,9 @@ background-color: rgba(0, 0, 0, 0.5);
   padding:0;
 }
 
+.site-footer {
+  padding:1em;
+}
 .footer-top .col-md-6 {
   padding-top: 1em;
 }
@@ -91,6 +94,9 @@ color: white;
 .post-head {
   height: 78vh;
   min-height: 180px;
+}
+.post-content, .post-header {
+  padding: 1em;
 }
 
 .events .col-md-6 {

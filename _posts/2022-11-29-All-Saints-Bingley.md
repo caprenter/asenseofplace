@@ -16,6 +16,15 @@ The event also provided an opportunity to respond creatively to the sound. We pr
 
 The event ended with the ringing of the church bells, as the regular Tuesday evening practice starts each week at 7:30pm. 
 
+<br/>
+<figure>
+    <blockquote >
+        <p><i class="fa-solid fa-quote-left fa-pull-left" aria-hidden="true"></i>Peaceful, centred, thought provoking<i class="fa-solid fa-quote-right fa-pull-right" aria-hidden="true"></i></p>
+    </blockquote>
+    <figcaption> - audience feedback, Bingley, 29th November 2022</figcaption>
+</figure>
+<br/> 
+
 ## Climate Impact
 
 We have tried to make this a low-carbon event by design.
@@ -40,6 +49,15 @@ We don't have data for exactly how people did travel on the day.
 Our next Carbon Cost was the church heating which ran for an hour before and through to the end of the event.
 
 Our final Carbon Costs were in the materials we used. This was mitigated by all the contents of the listening kits coming from end of line 'scrap' stock left over that we collectively had lying around.
+
+<br/>
+<figure>
+    <blockquote >
+        <p><i class="fa-solid fa-quote-left fa-pull-left" aria-hidden="true"></i>Loved the listening kits, so beautifully put together.<i class="fa-solid fa-quote-right fa-pull-right" aria-hidden="true"></i></p>
+    </blockquote>
+    <figcaption> - audience feedback, Bingley, 29th November 2022</figcaption>
+</figure>
+<br/>
 
 <!--### Map of where people came from
 
@@ -98,6 +116,15 @@ All the audio was recorded with a smart phone or via the internet.
 * mindful (3)
 
 <img src="{{ site.baseurl}}/assets/images/allsaints/wordcloud.jpg" alt="WordCloud" />
+
+<br/>
+<figure>
+    <blockquote >
+        <p><i class="fa-solid fa-quote-left fa-pull-left" aria-hidden="true"></i>Calm. Curious. Full of Bingley.<i class="fa-solid fa-quote-right fa-pull-right" aria-hidden="true"></i></p>
+    </blockquote>
+    <figcaption> - audience feedback, Bingley, 29th November 2022</figcaption>
+</figure>
+<br/>
 
 <!-- Gallery -->
 <!--<div class="row">
