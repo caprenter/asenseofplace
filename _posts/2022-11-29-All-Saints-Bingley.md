@@ -63,7 +63,7 @@ Our final Carbon Costs were in the materials we used. This was mitigated by all 
 
 Notes: One marker from near Chorley is not shown. Map is a mixture of postcodes taken on the day and in pre-registration
 
-<img src="{{ site.baseurl}}/assets/images/map.jpg" alt="map of attendees" />-->
+<img src="{{ site.baseurl}}/assets/images" alt="map of attendees" />-->
 
 ## Sound
 
