@@ -91,3 +91,8 @@ All the audio was recorded with a smart phone.
 * Leisure, William Henry Davies
 
 7) Wednesday 29th March 2023, The Cafe,Cliffe Castle
+
+## Gallery
+
+Pictures of Well Being Wednesday activities during the time A Sense Of Place was being created.
+{% include gallery.html %}

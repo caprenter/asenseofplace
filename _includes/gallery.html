@@ -1,0 +1,16 @@
+<div class="container gallery">
+{% assign image_files = site.static_files | where: "image", true | | sort: 'date' %}
+    
+{% for image in image_files %}
+    {% if image.path contains 'keighley' %}
+        {% assign indexmod3 = forloop.index | modulo: 3 %}
+        {% if indexmod3 == 1 %}<div class="row">{% endif %}
+                <div class="col-sm-4">
+                    <img src="{{site.baseurl}}{{image.path}}" alt="{{ image.extname | remove: image.extname }}" title="{{ image.name | remove: image.extname }}"  class="img-responsive" />
+                </div>
+        {% if indexmod3 == 0 %}</div>{% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+
