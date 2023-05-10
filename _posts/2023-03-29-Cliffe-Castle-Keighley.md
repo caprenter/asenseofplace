@@ -95,4 +95,4 @@ All the audio was recorded with a smart phone.
 ## Gallery
 
 Pictures of Well Being Wednesday activities during the time A Sense Of Place was being created.
-{% include gallery.html %}
+{% include gallery.html directory="keighley" %}

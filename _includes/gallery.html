@@ -1,16 +1,23 @@
 <div class="container gallery">
 {% assign image_files = site.static_files | where: "image", true | | sort: 'date' %}
-    
+{% assign album = "" "" | split: ',' %}
+{% assign directory = include.directory %}
+
 {% for image in image_files %}
-    {% if image.path contains 'keighley' %}
-        {% assign indexmod3 = forloop.index | modulo: 3 %}
-        {% if indexmod3 == 1 %}<div class="row">{% endif %}
-                <div class="col-sm-4">
-                    <img src="{{site.baseurl}}{{image.path}}" alt="{{ image.extname | remove: image.extname }}" title="{{ image.name | remove: image.extname }}"  class="img-responsive" />
-                </div>
-        {% if indexmod3 == 0 %}</div>{% endif %}
-    {% endif %}
-  {% endfor %}
+{% if image.path contains directory %}
+{% assign album = album | push: image %}
+{% endif %}
+{% endfor %}
+
+{% for image in album %}
+{% if forloop.first %}<div class="row">{% endif %}
+{% assign indexmod3 = forloop.index | modulo: 3 %}
+{% if indexmod3 == 1 %}<div class="row">{% endif %}
+<div class="col-sm-4">
+<img src="{{site.baseurl}}{{image.path}}" alt="{{ image.extname | remove: image.extname }}" title="{{ image.name | remove: image.extname }}"  class="img-responsive" />
+</div>
+{% if forloop.last %}</div>{% elsif indexmod3 == 0 %}</div>{% endif %}
+{% endfor %}
 </div>
 
 
