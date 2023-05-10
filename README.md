@@ -9,3 +9,9 @@ Create an issue, then create a development branch that uses the issue number in 
 
 Make a pull request.
 
+
+### Gallery
+
+A gallery can be added by including gallery.html and specifying a directory of images e.g.
+
+  {% include gallery.html directory="keighley" %}
