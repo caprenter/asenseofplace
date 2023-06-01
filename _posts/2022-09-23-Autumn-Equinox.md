@@ -9,8 +9,8 @@ image-title: Sunrise over Bingley
 23rd September 2022
 
 <audio controls>
-    <source src="{{ site.url }}/assets/audio/bingley_2022-09-23.ogg" type="audio/ogg">
-    <source src="{{ site.url }}/assets/audio/bingley_2022-09-23.mp3" type="audio/mpeg">
+    <source src="https://media.githubusercontent.com/media/caprenter/asenseofplace/main/assets/audio/bingley_2022-09-23.ogg" type="audio/ogg">
+    <source src="https://media.githubusercontent.com/media/caprenter/asenseofplace/main/assets/audio/bingley_2022-09-23.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 *Audio: Altar Rock, Autumn Equinox 2022. Excerpt of bird song, aircraft, and valley traffic.*

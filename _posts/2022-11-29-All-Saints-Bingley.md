@@ -68,8 +68,8 @@ Notes: One marker from near Chorley is not shown. Map is a mixture of postcodes 
 ## Sound
 
 <audio controls>
-    <source src="{{ site.url }}/assets/audio/AllSaints_ASenseOfPlace_2022-11-29_final.ogg" type="audio/ogg">
-    <source src="{{ site.url }}/assets/audio/AllSaints_ASenseOfPlace_2022-11-29_final.mp3" type="audio/mpeg">
+    <source src="https://media.githubusercontent.com/media/caprenter/asenseofplace/main/assets/audio/AllSaints_ASenseOfPlace_2022-11-29_final.ogg" type="audio/ogg">
+    <source src="https://media.githubusercontent.com/media/caprenter/asenseofplace/main/assets/audio/AllSaints_ASenseOfPlace_2022-11-29_final.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 *Audio: A Sense of Place. Field Recordings.*
