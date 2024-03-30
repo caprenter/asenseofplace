@@ -2,10 +2,14 @@
 title: All Saints Parish Church, Bingley
 layout: page
 id: autumn
-bgimage: /assets/images/allsaints/as_banner.jpeg
+bgimage: /assets/images/blog/as_banner.jpeg
 image-title: Sunrise over Bingley
 ---
 # All Saints Parish Church, Bingley
+
+
+<div class="row past-event" >
+<div class="col-lg-6 col-md-6 col-sm-12" markdown="1"> 
 29th November 2022
 
 This event was limited to 25 places, so with artists and helpers about 30 of us took part in A Sense of Place at [All Saints Parish Church](https://www.allsaintsbingley.org.uk/), where we gathered to listen to sounds designed to anchor people in time and place. 
@@ -15,6 +19,13 @@ Listening collectively, the audience was challenged to think about the ways in w
 The event also provided an opportunity to respond creatively to the sound. We provided 'listening kits' so people could engage in some mindful stitching, sketching or writing, which most people took advantage of.
 
 The event ended with the ringing of the church bells, as the regular Tuesday evening practice starts each week at 7:30pm. 
+</div>
+<div class="col-lg-6 col-md-6 col-sm-12">
+<p><img src="{{ site_url}}/assets/images/blog/ASOP_bingley.jpg"/></p>
+</div>
+</div>
+
+
 
 <br/>
 <figure>
