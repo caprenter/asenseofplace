@@ -117,6 +117,12 @@ All the audio was recorded with a smart phone or via the internet.
 
 9)Bingley, 29th November 2022, 7:30pm 
 
+## Video
+
+The video featuring deep listening prompts is now up on YouTube: [https://youtu.be/69DzedZgyNU](https://youtu.be/69DzedZgyNU)
+
+<p><a href="https://youtu.be/69DzedZgyNU"><img src="{{ site_url}}/assets/images/allsaints/video.jpg"/></a></p>
+
 ## Feedback
 
 ### Three Words
