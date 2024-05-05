@@ -15,3 +15,12 @@ Make a pull request.
 A gallery can be added by including gallery.html and specifying a directory of images e.g.
 
   {% include gallery.html directory="keighley" %}
+
+You also need to have a subdirectory of the same name within the thumbnails directory.
+
+    Copy the main image directory to thumbnails
+
+    Run this to thumbnail them:
+    find . \( -name '*.jpg' -or -name '*.JPG' \) -print0 |  while read -d $'\0' file ; do convert -define jpeg:size=400x400  "$file" -thumbnail 400x400^ -gravity center -extent 400x400  ../thumbnails/"$file" ; done
+
+The gallery uses a jquery or something similar lightbox thingy as well.
