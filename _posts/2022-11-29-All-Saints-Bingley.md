@@ -1,7 +1,7 @@
 ---
 title: All Saints Parish Church, Bingley
 layout: page
-id: autumn
+#id: autumn
 bgimage: /assets/images/blog/as_banner.jpeg
 image-title: Sunrise over Bingley
 ---

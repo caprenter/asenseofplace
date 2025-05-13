@@ -1,7 +1,7 @@
 ---
 title: Autumn Equinox
 layout: page
-id: autumn
+#id: autumn
 bgimage: /assets/images/blog/ASOP_AltarRock_Sept2022_15.jpg
 image-title: Sunrise over Bingley
 ---

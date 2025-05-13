@@ -1,7 +1,7 @@
 ---
 title: A Sense Of Place
 layout: page
-id: index
+#id: index
 image: /assets/images/background.jpg
 ---
 

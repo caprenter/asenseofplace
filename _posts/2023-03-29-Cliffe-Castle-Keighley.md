@@ -1,7 +1,7 @@
 ---
 title: Cliffe Castle, Keighley
 layout: page
-id: autumn
+#id: autumn
 bgimage: /assets/images/blog/drawings.jpg
 image-title: Drawings made at our event
 ---
